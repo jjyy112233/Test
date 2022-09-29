@@ -6,7 +6,7 @@
 #include "EffectLog.h"
 #include <list>
 
-using namespace sf;    
+using namespace sf;
 
 class Player : public SpriteGameObject
 {
