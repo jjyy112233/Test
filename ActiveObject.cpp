@@ -7,7 +7,7 @@ ActiveObject::ActiveObject(Texture& tex, Vector2f pos)
 }
 
 ActiveObject::~ActiveObject()
-{
+{ 
 	//Release();
 }
 
