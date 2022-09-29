@@ -5,7 +5,7 @@
 #include "Branch.h" 
 #include "EffectLog.h"
 #include <list>
-
+//À×!
 using namespace sf;
 
 class Player : public SpriteGameObject
